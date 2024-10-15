@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidAppProjectNum1</string>
+    <string name="project_and_name">Android App Project #1\nBy Daniel Bickel II</string>
+    <string name="content_description">The wolverine.</string>
+    <string name="greeting">Get A Greeting!</string>
+    <string name="visit">Visit SBVC!</string>
+    <string name="email">email SBVC!</string>
+    <string name="mission_statement">About San Bernardino Valley College\nFounded in 1926, San Bernardino Valley College (SBVC) is a comprehensive community college offering a full range of degrees, transfer programs to four-year institutions, and certificates in a wide range of careers. As the original and largest of two colleges in the San Bernardino Community College Disrict, SBVC is a regional leader in career and technical education with programs in nursing, human services, computer information technology, welding, electrical and dozens more. Weekend, online, evening, short-term and distance learning classes are available along with classes in Big Bear.\n\nSBVC\'s mission is to prepare students for transfer to four-year universities, to enter the workforce by earning applied degrees and certificates, to foster economic growth and global competitiveness through workforce development, and to improve the quality of life in the Inland Empire and beyond.\n\nCentrally located near the 10/215 freeways, San Bernardino Valley College serves over 13,000 students every semester. It\'s free to apply and financial aid is available.</string>
+</resources>
